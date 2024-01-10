@@ -64,10 +64,6 @@ ol li button {
 }
 
 @media screen and (min-width:768px) {
-  #root {
-  height: 90vh;
-  }
-  
   .square {
     font-size: 400%;
   }
